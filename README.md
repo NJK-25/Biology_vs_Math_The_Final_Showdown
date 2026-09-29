@@ -2,7 +2,7 @@
 
 This notebook contains the full code behind Part 2 of a two-part blog series
 comparing how a simple pretrained neural network and a simulated human
-investor would have handled the 2020 market crash.
+investor would have handled the 2020 market crash
 
 ## Before running this
 
