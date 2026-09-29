@@ -4,9 +4,6 @@ This notebook contains the full code behind Part 2 of a two-part blog series
 comparing how a simple pretrained neural network and a simulated human
 investor would have handled the 2020 market crash.
 
-- Part 1 — How to Build a Brain Out of Nothing: [link]
-- Part 2 — Biology vs Math: The Showdown: [link]
-- 
 ## Before running this
 
 You'll need your own free TabPFN API token:
